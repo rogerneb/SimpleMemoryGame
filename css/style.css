@@ -1,0 +1,15 @@
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+article h2 {
+  text-align: center;
+}
+.card {
+  width: 65px;
+}
+
+#board {
+  width: 325px;
+}
